@@ -1,3 +1,3 @@
 # Multi-Scale-Legend  
 
-A draft for a legend of webmap. 
+A draft for a legend of a webmap. 
